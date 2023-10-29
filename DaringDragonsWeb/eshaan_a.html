@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Eshaan A - Daring Dragons DI Team</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="icon" type="image/x-icon" href="photos/favicon-removebg-preview.png">
+</head>
+
+<body>
+  <header>
+    <div id="big">
+    <ul id="u">
+      <li id="hed"> <a href="index.html"> Go to the home page!   </a></li>
+      <li id="hed"> <a href="contact.html"> Contact us! </a></li>
+      <li id="hed"> <a href="sponsorships.html"> Sponsorships! </a></li>
+      <li class="dropdown">
+        <a href="javascript:void(0)" class="dropbtn">About our team!</a>
+        <div class="dropdown-content">
+          <a id="hd" href="varun_i.html">Varun I</a>
+          <a id="hd" href="gokul_s.html">Gokul S</a>
+          <a id="hd" href="eshaan_a.html">Eshaan A</a>
+          <a id="hd" href="sristi_s.html">Sristi S</a>
+          <a id="hd" href="sk.html">Sahasra K</a>
+          <a id="hd" href="sahasra_v.html">Sahasra V</a>
+          <a id="hd" href="rj.html">Ruchika Joshi - The Team Manager!!</a>
+
+        </div>
+        <li class="dropdown">
+        <a href="javascript:void(0)" class="dropbtn">Team progress!</a>
+        <div class="dropdown-content">
+          <a id="hd" href="script.html">Script Progress!</a>
+          <a id="hd" href="sets&costumes.html">Sets and Costumes progress!</a>
+
+        </div>
+        <li id="long">|</li>
+
+        <input type="text" id="search" placeholder="Search for info on our page!">
+        <div id="search-results"></div>
+        <!-- <script src="script.js"></script> -->
+
+
+      </li>
+    </div>
+      </ul>
+    <h1>Eshaan A</h1>
+  </header>
+
+  <section>
+    <ul id="unfixed">
+      <li><a href="#top">Top</a></li>
+    </ul>
+    <h2>Biography</h2>
+    <p>I, Eshaan Ahuja, was born in Toronto, Canada, and I currently reside in The Woodlands, Texas. I grew up with a younger sister, and from a young age, my life was colored by my passions and the experiences that have shaped me.
+<br>
+      <br>
+    One of my earliest and enduring interests was sparked during my formative years when I attended summer camps for coding and robotics. These camps laid the foundation for a lifelong fascination with technology and its potential. It was at these camps that I first realized the power of creation through coding and the boundless possibilities of robotics.
+<br>
+      <br>
+    Outside of my professional and educational endeavors, I have a diverse set of interests that keep my life balanced and fulfilling. I find joy in coding and developing software, in building and exploring the world of robotics, and in immersing myself in the world of video games. When I'm not indulging in these tech-related pursuits, I am an avid biker and runner, cherishing the thrill of the outdoors. Additionally, I savor the simple joys of reading and, of course, the essential act of sleeping.
+<br>
+      <br>
+    My love for reading has been a lifelong companion. I vividly remember staying up until the wee hours of the morning, engrossed in a book, and eagerly awaiting the next one in the series. This insatiable curiosity and thirst for knowledge through books have been a consistent part of my journey.
+<br>
+      <br>
+    Throughout my life, there have been three individuals who have played a profound role in shaping my path: my parents, a dear friend named Gokul, and my sister. The unwavering support and guidance from my family have been my pillars of strength. Gokul, who I've known since kindergarten, has been both a constant friend and a source of wisdom, showing me new horizons in my tech-centric pursuits.
+<br>
+      <br>
+    "Keep trying" is the motto that has steered me through life. With a deep-seated desire to work at companies like Google or other tech giants in a web development or coding role, I carry this principle as a beacon of resilience and determination.
+<br>
+      <br>
+    As I continue my journey, I aspire to turn my dreams into reality and make a mark in the tech industry. </p>
+    <br>
+    <h1>
+      Me with my father at global finals last year
+    </h1>
+    <img src="photos/IMG-8005.jpg" alt="Eshaan at globals last year" height="600">
+  </section>
+  <a href="index.html" class="button">Back to Main Page</a>
+  <script src="https://replit.com/public/js/replit-badge-v2.js" theme="dark" position="top-right"></script>
+  <script>
+    const searchInput = document.getElementById("search");
+    const teamMembers = document.querySelectorAll("#u li");
+
+    searchInput.addEventListener("input", () => {
+        const searchTerm = searchInput.value.toLowerCase();
+
+        for (const member of teamMembers) {
+            const memberName = member.textContent.toLowerCase();
+            if (memberName.includes(searchTerm)) {
+                member.style.display = "block";
+            } else {
+                member.style.display = "none";
+            }
+        }
+    });
+  </script>
+</body>
+
+</html>

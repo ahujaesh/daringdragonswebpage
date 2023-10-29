@@ -1,0 +1,140 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #8DCFEC;
+}
+
+p {
+  font-size: 25px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #CBC3E3;
+  border: 3px solid #1aa7ec;
+  /* position: fixed; */
+}
+
+li {
+  float: left;
+}
+
+li a, .dropbtn {
+  display: inline-block;
+  color: lightcoral;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+  background-color: #9243d9;
+}
+
+li.dropdown {
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #1aa7ec;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: light lightcoral;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #9243d9;}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+#big {
+  font-size: 25px;
+}
+
+a {
+  font-size: 25px;
+}
+
+hr {
+  border: 2px solid #1aa7ec;
+}
+
+#unfixed {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 300px;
+  border: 3px solid #1aa7ec;
+}
+
+h1 {
+  font-size: 45px;
+}
+
+#gr {
+  border: 3px solid green;
+}
+/* Styles for the search results container */
+#search-results {
+    position: absolute;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    max-height: 200px; /* Set a max height for the results to enable scrolling if needed */
+    overflow-y: auto; /* Add a scrollbar if the results exceed the max height */
+    display: none; /* Initially hide the results container */
+    z-index: 1; /* Ensure the dropdown appears on top of other elements */
+    width: 100%;
+}
+
+/* Styles for individual search result items */
+#search-results a {
+    display: block;
+    padding: 8px;
+    text-decoration: none;
+    color: #333;
+}
+
+/* Styles for the active (highlighted) search result item */
+#search-results a:hover {
+    background-color: #f2f2f2;
+}
+
+/* Show the results container when there are search results */
+#search-results.show {
+    display: block;
+}
+
+#search {
+  height:47px;
+  border:3px solid green;
+  margin: 0 auto;
+}
+
+#long {
+  font-size: 50px;
+}
+img {
+  max-width: 100%;
+}
+
+
+
+
+
+
+
+
