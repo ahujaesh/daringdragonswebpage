@@ -1,2 +1,2 @@
 # daringdragonswebpage
-the daring draons webpage's (daringdragons.eshaanahuja.repl.co) source code
+the daring dragons destination imagionation team's webpage's (daringdragons.eshaanahuja.repl.co) source code. Updated weekly.
