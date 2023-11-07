@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .neon-text {
+            font-size: 36px;
+            color: #00ff00;
+            text-shadow: 0 0 10px #00ff00, 0 0 20px #00ff00, 0 0 30px #00ff00;
+            animation: neon-glow 1.5s ease-in-out infinite;
+        }
+
+        @keyframes neon-glow {
+            0%, 100% {
+                text-shadow: 0 0 10px #00ff00, 0 0 20px #00ff00, 0 0 30px #00ff00;
+            }
+            50% {
+                text-shadow: none;
+            }
+        }
+    </style>
+</head>
+<body>
+    <p class="neon-text">Cool Neon Glow Effect</p>
+</body>
+</html>
