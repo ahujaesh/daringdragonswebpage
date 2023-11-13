@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Audio Example</title>
+</head>
+<body>
+  <figure>
+    <figcaption>Track 1:</figcaption>
+    <br>
+    <audio id="audio1" controls>
+      <source src="audio1-longer.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </figure>
+
+  <figure>
+    <figcaption>Track 2:</figcaption>
+    <br>
+    <audio id="audio2" controls>
+      <source src="audio3.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </figure>
+
+  <figure>
+    <figcaption>Track 3:</figcaption>
+    <br>
+    <audio id="audio3" controls>
+      <source src="audio4.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </figure>
+
+  <button data-audio-id="audio1" class="fast-forward">Fast Forward Track 1</button>
+  <button data-audio-id="audio2" class="fast-forward">Fast Forward Track 2</button>
+  <button data-audio-id="audio3" class="fast-forward">Fast Forward Track 3</button>
+  <button data-audio-id="audio1" class="rewind">Rewind Track 1</button>
+  <button data-audio-id="audio2" class="rewind">Rewind Track 2</button>
+  <button data-audio-id="audio3" class="rewind">Rewind Track 3</button>
+
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      function fastForward(audio) {
+        if (audio) {
+          audio.currentTime += 5;
+        }
+      }
+
+      function rewind(audio) {
+        if (audio) {
+          audio.currentTime -= 5;
+        }
+      }
+
+      document.querySelectorAll('button').forEach(function (button) {
+        button.addEventListener('click', function () {
+          var audioId = button.getAttribute('data-audio-id');
+          var audio = document.getElementById(audioId);
+
+          if (button.classList.contains('fast-forward')) {
+            fastForward(audio);
+          } else if (button.classList.contains('rewind')) {
+            rewind(audio);
+          }
+        });
+      });
+    });
+  </script>
+
+
+</body>
+</html>
