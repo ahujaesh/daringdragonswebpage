@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Save form Data in a Text File using JavaScript</title>
+  <style>
+    * { box-sizing: border-box; font-family: Corbel; }
+    div {
+      padding: 10px;
+      background-color: #f6f6f6;
+      overflow: hidden;
+    }
+    input[type=text], textarea, select {
+      font-size: 18px;
+      width: 100%;
+      padding: 12px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    input[type=button]{ 
+      font-size: 18px;
+      width: auto;
+      float: right;
+      cursor: pointer;
+      padding: 7px;
+    }
+    a { color: blue; }
+  </style>
+</head>
+<body>
+  <h2>Enter values in the boxes and click Save</h2>
+  <div>
+    <!--Add few elements to the form-->
+
+    <div>
+      <input type="text" id="txtName" placeholder="Enter your name" />
+    </div>
+    <div>
+      <input type="text" id="txtAge" placeholder="Enter your age" />
+    </div>
+    <div>
+      <input type="text" id="txtEmail" 
+             placeholder="Enter your email address" />
+    </div>
+    <div>
+      <select id="selCountry">
+        <option selected value="">-- Choose the country --</option>
+        <option value="India">India</option>
+        <option value="Japan">Japan</option>
+        <option value="USA">USA</option>
+      </select>
+    </div>
+    <div>
+      <textarea id="msg" name="msg" 
+      	placeholder="Write some message ..." style="height:100px">     </textarea>
+    </div>
+    <div>
+      <input type="button" id="bt" 
+             value="Save data to file" onclick="saveFile()" />
+    </div>
+  </div>
+  </p>
+  <h1>Random Joke</h1>
+  <p id="jokeText">Loading...</p>
+  <button onclick="getJoke()">Get Joke</button>
+  <h1>Random Programming Joke</h1>
+  <p id="jokeText2">Loading...</p>
+  <button onclick="getJoke2()">Get Joke</button>
+  <script>
+    let saveFile = () => {
+
+      // Get the data from each element on the form.
+      const name = document.getElementById('txtName');
+      const age = document.getElementById('txtAge');
+      const email = document.getElementById('txtEmail');
+      const country = document.getElementById('selCountry');
+      const msg = document.getElementById('msg');
+
+      // This variable stores all the data.
+      let data = 
+          '\r Name: ' + name.value + ' \r\n ' + 
+          'Age: ' +age.value + ' \r\n ' + 
+          'Email: ' + email.value + ' \r\n ' + 
+          'Country: ' + country.value + ' \r\n ' + 
+          'Message: ' + msg.value;
+
+      // Convert the text to BLOB.
+      const textToBLOB = new Blob([data], { type: 'text/plain' });
+      const sFileName = 'formData.txt';	   // The file to save the data.
+
+      let newLink = document.createElement("a");
+      newLink.download = sFileName;
+
+      if (window.webkitURL != null) {
+        newLink.href = window.webkitURL.createObjectURL(textToBLOB);
+      }
+      else {
+        newLink.href = window.URL.createObjectURL(textToBLOB);
+        newLink.style.display = "none";
+        document.body.appendChild(newLink);
+      }
+
+      newLink.click(); 
+    }
+
+    function getJoke() {
+      var jokeTextElement = document.getElementById("jokeText");
+
+      // Make an HTTP request to the JokeAPI
+      var xhr = new XMLHttpRequest();
+      xhr.open("GET", "https://v2.jokeapi.dev/joke/Any?blacklistFlags=nsfw,religious,political,racist,sexist,explicit&safe-mode&format=txt", true);
+
+      xhr.onload = function () {
+        if (xhr.status == 200) {
+          // Update the HTML with the joke content
+          jokeTextElement.innerHTML = xhr.responseText;
+        } else {
+          // Handle error
+          jokeTextElement.innerHTML = "Error fetching joke.";
+        }
+      };
+
+      // Send the request
+      xhr.send();
+    }
+
+    function getJoke2() {
+      var jokeText2Element = document.getElementById("jokeText2");
+  
+      // Make an HTTP request to the JokeAPI
+      var xhr2 = new XMLHttpRequest();
+      xhr2.open("GET", "https://v2.jokeapi.dev/joke/Programming?blacklistFlags=nsfw,religious,political,racist,sexist,explicit&safe-mode&format=txt", true);
+  
+      xhr2.onload = function () {
+        if (xhr2.status == 200) {
+          // Update the HTML with the joke content
+          jokeText2Element.innerHTML = xhr2.responseText;
+        } else {
+          // Handle error
+          jokeText2Element.innerHTML = "Error fetching joke.";
+        }
+      };
+
+      // Send the request
+      xhr2.send();
+    }
+  </script>
+</body>
+</html>
