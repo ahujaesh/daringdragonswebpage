@@ -6,3 +6,6 @@ You can see the most recent version of our code by forking our repl [here](https
 If you have a second, check out our [webpage](https://daringdragons.eshaanahuja.repl.co)!
 
 Thanks for reading and happy coding!
+
+Changelog:
+ v6 - improve sponsorships, sets&costumes and script pages. also added semantic elements.
