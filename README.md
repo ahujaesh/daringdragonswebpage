@@ -10,9 +10,12 @@ Thanks for reading and happy coding!
 
 **Changelog:**
 
+
  v7 - change font along with other minor improvements
  
+ 
  v6 - improve sponsorships, sets&costumes and script pages. also added semantic elements.
+ 
  
  v5 through v1 - i didn't think to make a changelog
 
