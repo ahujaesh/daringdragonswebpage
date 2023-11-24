@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Advice</title>
+</head>
+<body>
+<pre>
+  hi
+  this
+  is 
+  monospaced
+</pre>
+  <blockquote>hi - eshaan ahuja 2023</blockquote>
+  hi
+  this
+  isn't
+  monospaced
+<h1>Random joke Generator</h1>
+<p id="advice"></p>
+<button onclick="getAdvice()">Get joke</button>
+
+<script>
+    function getAdvice() {
+        fetch('https://daringdragons.eshaanahuja.repl.co/advice.txt')
+            .then(response => response.text())
+            .then(data => {
+                const adviceArray = data.split('\n').filter(Boolean); // Split lines and remove empty entries
+                const randomIndex = Math.floor(Math.random() * adviceArray.length);
+                const adviceElement = document.getElementById('advice');
+                adviceElement.textContent = adviceArray[randomIndex];
+            })
+            .catch(error => console.error('Error fetching advice:', error));
+    }
+</script>
+  <h1>Random Star Wars Starship Generator</h1>
+  <p id="starshipInfo"></p>
+  <button onclick="getRandomStarship()">Get Random Starship</button>
+
+  <script>
+      function getRandomStarship() {
+        // Generate a random starship ID between 1 and 17 (inclusive)
+        const randomStarshipId = Math.floor(Math.random() * 17) + 1;
+
+        fetch(`https://swapi.dev/api/starships/${randomStarshipId}/`)
+            .then(response => response.json())
+            .then(data => {
+                const starshipElement = document.getElementById('starshipInfo');
+                starshipElement.innerHTML = `<strong>Name:</strong> ${data.name}<br>
+                                            <strong>Model:</strong> ${data.model}<br>
+                                            <strong>Manufacturer:</strong> ${data.manufacturer}<br>
+                                            <strong>Class:</strong> ${data.starship_class}<br>
+                                            <strong>Cost:</strong> ${data.cost_in_credits} credits<br>
+                                            <strong>Max Atmosphering Speed:</strong> ${data.max_atmosphering_speed}<br>
+                                            <strong>Crew:</strong> ${data.crew}<br>
+                                            <strong>Passengers:</strong> ${data.passengers}<br>
+                                            <strong>Hyperdrive Rating:</strong> ${data.hyperdrive_rating}<br>
+                                            <strong>Cargo Capacity:</strong> ${data.cargo_capacity} kg<br>
+                                            <strong>Consumables:</strong> ${data.consumables}`;
+            })
+            .catch(error => console.error('Error fetching starship:', error));
+      }
+  </script>
+</body>
+</html>
