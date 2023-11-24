@@ -7,10 +7,16 @@ If you have a second, check out our [webpage](https://daringdragons.eshaanahuja.
 
 Thanks for reading and happy coding!
 
+
 **Changelog:**
 
  v7 - change font along with other minor improvements
+ 
  v6 - improve sponsorships, sets&costumes and script pages. also added semantic elements.
+ 
  v5 through v1 - i didn't think to make a changelog
 
- **Note** : if you see some .txt files called "ignoreme.txt" or something, know that I created them just to create the folder that they are in. Currently, I don't know how to create a folder without creating a file to reside inside it. If you are reading this and you do know how, please leave a comment or shoot me an email please. Thank you!
+
+ **Note**: 
+ 
+ if you see some .txt files called "ignoreme.txt" or something, know that I created them just to create the folder that they are in. Currently, I don't know how to create a folder without creating a file to reside inside it. If you are reading this and you do know how, please leave a comment or shoot me an email please. Thank you!
