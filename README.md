@@ -10,6 +10,8 @@ Thanks for reading and happy coding!
 
 **Changelog:**
 
+v8 - improve feedback form styles, remove all iframes for faster speeds, add "help, I forgot my password" screens to the ["Script progress"](https://daringdragons.eshaanahuja.repl.co/script.html) and ["Sets and costumes progress"](https://daringdragons.eshaanahuja.repl.co/sets&costumes.html) pages.
+
 
  v7 - change font along with other minor improvements
  
