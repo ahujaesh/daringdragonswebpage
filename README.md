@@ -1,5 +1,5 @@
 # daringdragonswebpage
-The Daring Dragons destination imagination team's [webpage](https://daringdragons.eshaanahuja.repl.co)'s source code. Our website is built with HTML, CSS, and Javascript, and is a showcase of our DI team. Instead of making our webpage using Wix or Google Sites, we decided to create it using HTML, CSS, and Javascript to customize our site more. This repository is usually updated weekly with backups of the code used to run the website. Our website is hosted on [repl.it](replit.com), or [replit.com](replit.com), and receives international traffic!
+The Daring Dragons destination imagination team's [webpage](https://daringdragons.eshaanahuja.repl.co)'s source code. Our website is built with HTML, CSS, and Javascript, and is a showcase of our DI team. Instead of making our webpage using Wix or Google Sites, we decided to create it using HTML, CSS, and Javascript to customize our site more. This repository is usually updated weekly with backups of the code used to run the website. Our website is hosted on [repl.it](https://replit.com), or [replit.com](https://replit.com), and receives international traffic!
 
 You can see the most recent version of our code by forking our Repl [here](https://replit.com/@EshaanAhuja/DaringDragons#index.html).
 
