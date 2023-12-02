@@ -19,7 +19,7 @@ v8 - Improve feedback form styles, remove all iframes for faster speeds, lazy lo
  v6 - Improve sponsorships, sets&costumes and script pages. also added semantic elements.
  
  
- v5 through v1 - Add joke apis to Eshaan's biography page, add Star Wars apis to Eshaan's biography page, add alts to all links, add alts to all photos, formatting (" <br> ", " <hr> ", etc.), add CSS animations, grammar, cookie policies, copyrights, and more that I don't remember. I didn't have a changelog back then.
+ v5 through v1 - Add joke apis to Eshaan's biography page, add Star Wars apis to Eshaan's biography page, add alts to all links, add alts to all photos, formatting, add CSS animations, grammar, cookie policies, copyrights, and more that I don't remember. I didn't have a changelog back then.
 
 
  **Note**: 
