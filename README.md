@@ -22,7 +22,7 @@ Thanks for reading and happy coding!
  **v6** - Improve sponsorships, sets&costumes and script pages. also added semantic elements.
  
  
-** v5 through v1** - Add joke apis to Eshaan's biography page, add Star Wars apis to Eshaan's biography page, add alts to all links, add alts to all photos, formatting, add CSS animations, grammar, cookie policies, copyrights, and more that I don't remember. I didn't have a changelog back then. If you want to know, you can go through the files above.
+**v5** through **v1** - Add joke apis to Eshaan's biography page, add Star Wars apis to Eshaan's biography page, add alts to all links, add alts to all photos, formatting, add CSS animations, grammar, cookie policies, copyrights, and more that I don't remember. I didn't have a changelog back then. If you want to know, you can go through the files above.
 
 
  **Note**: 
