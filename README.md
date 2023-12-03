@@ -10,6 +10,9 @@ Thanks for reading and happy coding!
 
 **Changelog:**
 
+v9 - added google translate for international visitors, update back to top buttons with new styling, updated the cookie popups styling, added more meta tags to all of the pages (author, keywords, ect), improved the locked pages.
+
+
 v8 - Improve feedback form styles, remove all iframes for faster speeds, lazy load videos, add "help, I forgot my password" screens to the ["Script progress"](https://daringdragons.eshaanahuja.repl.co/script.html) and ["Sets and costumes progress"](https://daringdragons.eshaanahuja.repl.co/sets&costumes.html) pages.
 
 
