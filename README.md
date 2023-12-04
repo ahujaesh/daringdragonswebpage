@@ -8,9 +8,12 @@ If you have a second, check out our [webpage](https://daringdragons.eshaanahuja.
 Thanks for reading and happy coding!
 
 
-**Changelog:**
+**Changelog:** (Note - If you see a version's changelog but cannot see the folder with the code for it, it is currently being finalized and will be posted soon.)
 
-**v9** - added google translate for international visitors, update back to top buttons with new styling, updated the cookie popups styling, added more meta tags to all of the pages (author, keywords, ect), improved the locked pages.
+**v10** - added a resources page with IC packets, found some pages without the new font from v7 and added the new font there, updated meta tags for [biography pages](https://daringdragons.eshaanahuja.repl.co/index.html#:~:text=solving%20and%20innovation.-,Our%20Team%20Members,-%2D%20you%20can%20read) and locked pages (Sets&Costumes page and Script Page.)
+
+
+**v9** - added Google translate for international visitors, updated back-to-top buttons with new styling, updated the cookie popups styling, added more meta tags to all of the pages (author, keywords, etc.), and improved the locked pages.
 
 
 **v8** - Improve feedback form styles, remove all iframes for faster speeds, lazy load videos, add "help, I forgot my password" screens to the ["Script progress"](https://daringdragons.eshaanahuja.repl.co/script.html) and ["Sets and costumes progress"](https://daringdragons.eshaanahuja.repl.co/sets&costumes.html) pages.
