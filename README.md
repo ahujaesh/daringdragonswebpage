@@ -10,7 +10,7 @@ Thanks for reading and happy coding!
 
 **Changelog:** (Note - If you see a version's changelog but cannot see the folder with the code for it, it is currently being finalized and will be posted soon.)
 
-**v10** - added a resources page with IC packets, found some pages without the new font from v7 and added the new font there, updated meta tags for [biography pages](https://daringdragons.eshaanahuja.repl.co/index.html#:~:text=solving%20and%20innovation.-,Our%20Team%20Members,-%2D%20you%20can%20read) and locked pages (Sets&Costumes page and Script Page.)
+**v10** - added a resources page with IC packets, found some pages without the new font from v7 and added the new font there, updated meta tags for [biography pages](https://daringdragons.eshaanahuja.repl.co/index.html#:~:text=solving%20and%20innovation.-,Our%20Team%20Members,-%2D%20you%20can%20read) and locked pages ( [Sets&Costumes page](https://daringdragons.eshaanahuja.repl.co/sets&costumes.html) and [Script Page](https://daringdragons.eshaanahuja.repl.co/script.html).), added og (Open Graph Protocol) meta tags to HTML head sections, added Google Translate integration to more pages, added more credits to [biography pages](https://daringdragons.eshaanahuja.repl.co/index.html#:~:text=solving%20and%20innovation.-,Our%20Team%20Members,-%2D%20you%20can%20read)
 
 
 **v9** - added Google translate for international visitors, updated back-to-top buttons with new styling, updated the cookie popups styling, added more meta tags to all of the pages (author, keywords, etc.), and improved the locked pages.
