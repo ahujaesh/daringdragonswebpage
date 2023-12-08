@@ -30,4 +30,4 @@ Thanks for reading and happy coding!
 
  **Note**: 
  
- if you see some .txt files called "ignoreme.txt" or something, know that I created them just to create the folder that they are in. I don't know how to create a folder without creating a file to reside inside it. If you are reading this and you do know how, please leave a comment or shoot me an email. Thank you!
+ if you see some .txt files called "ignoreme.txt" or something, know that I created them just to create the folder that they are in. I don't know how to create a folder without creating a file to reside inside it. If you are reading this and you do know how, please leave a comment or shoot me an email [here](https://daringdragons.eshaanahuja.repl.co/contact.html). Thank you!
