@@ -8,24 +8,57 @@ If you have a second, check out our [webpage](https://daringdragons.eshaanahuja.
 Thanks for reading and happy coding!
 
 
-**Changelog:** (Note - If you see a version's changelog but cannot see the folder with the code for it, it is currently being finalized and will be posted soon. Note (again) -  if the dates don't line up with the version numbers on the folders, know that I had to rename some folders to get them all to fall under the same naming convention, so the last changed date may be off from the date the code was changed.)
+**Changelog:** 
 
-**v10** - added a resources page with IC packets, found some pages without the new font from v7 and added the new font there, updated meta tags for [biography pages](https://daringdragons.eshaanahuja.repl.co/index.html#:~:text=solving%20and%20innovation.-,Our%20Team%20Members,-%2D%20you%20can%20read) and locked pages ( [Sets&Costumes page](https://daringdragons.eshaanahuja.repl.co/sets&costumes.html) and [Script Page](https://daringdragons.eshaanahuja.repl.co/script.html).), added og (Open Graph Protocol) meta tags to HTML head sections, added Google Translate integration to more pages (the [biography pages](https://daringdragons.eshaanahuja.repl.co/index.html#:~:text=solving%20and%20innovation.-,Our%20Team%20Members,-%2D%20you%20can%20read) ), added a countdown to our next competiton (see [here](https://daringdragons.eshaanahuja.repl.co/#:~:text=Countdown%20to%20Our%20Next%20Competition!)), and added more credits to the [biography pages](https://daringdragons.eshaanahuja.repl.co/index.html#:~:text=solving%20and%20innovation.-,Our%20Team%20Members,-%2D%20you%20can%20read), and updated the resources page [here](https://daringdragons.eshaanahuja.repl.co/resources.html).
+(Note - If you see a version's changelog but cannot see the folder with the code for it, it is currently being finalized and will be posted soon.)
+
+(Note (again) -  if the dates don't line up with the version numbers on the folders, know that I had to rename some folders to get them all to fall under the same naming convention, so the last changed date may be off from the date the code was changed.)
+
+**v10** 
+- added a resources page with IC packets
+- found some pages without the new font from v7 and added the new font there
+- updated meta tags for [biography pages](https://daringdragons.eshaanahuja.repl.co/index.html#:~:text=solving%20and%20innovation.-,Our%20Team%20Members,-%2D%20you%20can%20read) and locked pages ( [Sets&Costumes page](https://daringdragons.eshaanahuja.repl.co/sets&costumes.html) and [Script Page](https://daringdragons.eshaanahuja.repl.co/script.html).)
+- added og (Open Graph Protocol) meta tags to HTML head sections
+- added Google Translate integration to more pages (the [biography pages](https://daringdragons.eshaanahuja.repl.co/index.html#:~:text=solving%20and%20innovation.-,Our%20Team%20Members,-%2D%20you%20can%20read) )
+- added a countdown to our next competiton (see [here](https://daringdragons.eshaanahuja.repl.co/#:~:text=Countdown%20to%20Our%20Next%20Competition!))
+- added more credits to the [biography pages](https://daringdragons.eshaanahuja.repl.co/index.html#:~:text=solving%20and%20innovation.-,Our%20Team%20Members,-%2D%20you%20can%20read)
+- updated the resources page [here](https://daringdragons.eshaanahuja.repl.co/resources.html).
 
 
-**v9** - added Google translate for international visitors, updated back-to-top buttons with new styling, updated the cookie popups styling, added more meta tags to all of the pages (author, keywords, etc.), and improved the locked pages.
+**v9** 
+- added Google translate for international visitors
+- updated back-to-top buttons with new styling
+- updated the cookie popups styling
+- added more meta tags to all of the pages (author, keywords, etc.)
+- improved the locked pages ( [Sets&Costumes page](https://daringdragons.eshaanahuja.repl.co/sets&costumes.html) and [Script Page](https://daringdragons.eshaanahuja.repl.co/script.html).)
 
 
-**v8** - Improve feedback form styles, remove all iframes for faster speeds, lazy load videos, add "help, I forgot my password" screens to the ["Script progress"](https://daringdragons.eshaanahuja.repl.co/script.html) and ["Sets and costumes progress"](https://daringdragons.eshaanahuja.repl.co/sets&costumes.html) pages.
+**v8**
+- Improve feedback form styles
+- remove all iframes for faster speeds
+- lazy load videos of our past preformances
+- add "help, I forgot my password" screens to the ["Script progress"](https://daringdragons.eshaanahuja.repl.co/script.html) and ["Sets and costumes progress"](https://daringdragons.eshaanahuja.repl.co/sets&costumes.html) pages.
 
 
- **v7** - Change font along with other minor improvements
+ **v7**
+ - Change font along with other minor improvements
  
  
- **v6** - Improve sponsorships, sets&costumes and script pages. also added semantic elements.
+ **v6**
+ - Improve sponsorships, sets&costumes and script pages
+ - added semantic elements.
  
  
-**v5** through **v1** - Add joke apis to Eshaan's biography page, add Star Wars apis to Eshaan's biography page, add alts to all links, add alts to all photos, formatting, add CSS animations, grammar, cookie policies, copyrights, and more that I don't remember. I didn't have a changelog back then. If you want to know, you can go through the files above.
+**v5** through **v1**
+- Add joke apis to Eshaan's biography page
+- add Star Wars apis to Eshaan's biography page
+- add alts to all links, add alts to all photos
+- formatting
+- add CSS animations
+- grammar
+- cookie policies
+- copyrights
+- and more that I don't remember, because I didn't have a changelog back then. If you want to know, you can go through the files above.
 
 
  **Note**: 
