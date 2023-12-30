@@ -3,7 +3,7 @@ The Daring Dragons destination imagination team's [webpage](https://daringdragon
 
 You can see the most recent version of our code by forking our Repl [here](https://replit.com/@EshaanAhuja/DaringDragons#index.html).
 
-If you have a second, check out our [webpage](https://daringdragons.eshaanahuja.repl.co)!
+If you have a second, check out our [webpage](https://daringdragons.eshaanahuja.repl.co) by clicking [here](https://daringdragons.eshaanahuja.repl.co), or [googling us](https://www.google.com/search?q=daring+dragons+di&rlz=1CAJPEZ_enUS1008&oq=daring+d&gs_lcrp=EgZjaHJvbWUqCQgAEEUYOxiABDIJCAAQRRg7GIAEMgcIARAAGIAEMg0IAhAAGIMBGLEDGIAEMgoIAxAAGLEDGIAEMgYIBBBFGDkyBggFEEUYQTIGCAYQRRg8MgYIBxBFGDzSAQgyMDQ4ajFqN6gCALACAA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on)!
 
 Thanks for reading and happy coding!
 
