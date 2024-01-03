@@ -1,6 +1,6 @@
 # daringdragonswebpage
 
-I support [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
+I [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 
 The Daring Dragons destination imagination team's [webpage](https://daringdragons.eshaanahuja.repl.co)'s source code. Our website is built with HTML, CSS, and Javascript, and is a showcase of our DI team. Instead of making our webpage using Wix or Google Sites, we decided to create it using HTML, CSS, and Javascript to customize our site more. This repository is usually updated weekly with backups of the code used to run the website. Our website is hosted on [repl.it](https://replit.com), or [replit.com](https://replit.com), and receives international traffic! (From over 20 countries!)
 
@@ -16,6 +16,10 @@ Thanks for reading and happy coding!
 (Note - If you see a version's changelog but cannot see the folder with the code for it, it is currently being finalized and will be posted soon.)
 
 (Note (again) -  if the dates don't line up with the version numbers on the folders, know that I had to rename some folders to get them all to fall under the same naming convention, so the last changed date may be off from the date the code was changed.)
+
+**v11** (Not final yet)
+- added a "Copy email to clipboard button" to the [contact us page](https://daringdragons.eshaanahuja.repl.co/contact.html).
+
 
 **v10** 
 - added a resources page with IC packets
