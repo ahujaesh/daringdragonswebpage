@@ -27,7 +27,7 @@ Thanks for reading and happy coding!
 - updated meta tags for [biography pages](https://daringdragons.eshaanahuja.repl.co/index.html#:~:text=solving%20and%20innovation.-,Our%20Team%20Members,-%2D%20you%20can%20read) and locked pages ( [Sets&Costumes page](https://daringdragons.eshaanahuja.repl.co/sets&costumes.html) and [Script Page](https://daringdragons.eshaanahuja.repl.co/script.html).)
 - added og (Open Graph Protocol) meta tags to HTML head sections
 - added Google Translate integration to more pages (the [biography pages](https://daringdragons.eshaanahuja.repl.co/index.html#:~:text=solving%20and%20innovation.-,Our%20Team%20Members,-%2D%20you%20can%20read) )
-- added a countdown to our next competiton (see [here](https://daringdragons.eshaanahuja.repl.co/#:~:text=Countdown%20to%20Our%20Next%20Competition!))
+- added a countdown to our next competiton on our main page (see [here](https://daringdragons.eshaanahuja.repl.co/#:~:text=Countdown%20to%20Our%20Next%20Competition!))
 - added more credits to the [biography pages](https://daringdragons.eshaanahuja.repl.co/index.html#:~:text=solving%20and%20innovation.-,Our%20Team%20Members,-%2D%20you%20can%20read)
 - updated the resources page [here](https://daringdragons.eshaanahuja.repl.co/resources.html).
 
