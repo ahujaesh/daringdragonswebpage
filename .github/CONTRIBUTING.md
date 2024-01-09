@@ -1,0 +1,1 @@
+If you need help making a pull request, go [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request). Otherwise, go ahead with your contribution, I'll respond in a few days. Thanks for helping! 
