@@ -6,7 +6,7 @@ The Daring Dragons destination imagination team's [webpage](https://daringdragon
 
 You can see the most recent version of our code [here](https://github.com/ahujaesh/ahujaesh.github.io).
 
-If you have a second, check out our [webpage](https://daringdragons.eshaanahuja.repl.co) by clicking [here](https://daringdragons.eshaanahuja.repl.co), or [googling us](https://www.google.com/search?q=daring+dragons+di&rlz=1CAJPEZ_enUS1008&oq=daring+d&gs_lcrp=EgZjaHJvbWUqCQgAEEUYOxiABDIJCAAQRRg7GIAEMgcIARAAGIAEMg0IAhAAGIMBGLEDGIAEMgoIAxAAGLEDGIAEMgYIBBBFGDkyBggFEEUYQTIGCAYQRRg8MgYIBxBFGDzSAQgyMDQ4ajFqN6gCALACAA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on)!
+If you have a second, check out our [webpage](https://ahujaesh.github.io) by clicking [here](https://ahujaesh.github.io)!
 
 Thanks for reading and happy coding!
 
