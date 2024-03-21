@@ -17,8 +17,12 @@ Thanks for reading and happy coding!
 
 (Note (again) -  if the dates don't line up with the version numbers on the folders, know that I had to rename some folders to get them all to fall under the same naming convention, so the last changed date may be off from the date the code was changed.)
 
-**v11** (Not final yet)
+**v11** 
 - added a "Copy email to clipboard button" to the [contact us page](https://daringdragons.eshaanahuja.repl.co/contact.html).
+- States changes
+- Updated countdown
+- Updated "eshaan_a.html" page
+- a LOT more stuff (I forgot to keep updating this in the almost 3 months since the last release)
 
 
 **v10** 
