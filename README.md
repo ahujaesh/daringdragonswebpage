@@ -17,21 +17,36 @@ Thanks for reading and happy coding!
 
 (Note (again) -  if the dates don't line up with the version numbers on the folders, know that I had to rename some folders to get them all to fall under the same naming convention, so the last changed date may be off from the date the code was changed.)
 
+
+
+**v12** (Not final) (I'll keep up this time, unlike v11)
+- Update Mrs. RJ's bio with a meme
+- Add a spinner to Gokul's page
+ 
 **v11** 
 - added a "Copy email to clipboard button" to the [contact us page](https://daringdragons.eshaanahuja.repl.co/contact.html).
 - States changes
-- Updated countdown
-- Updated "eshaan_a.html" page
-- a LOT more stuff (I forgot to keep updating this in the almost 3 months since the last release)
+- Updated countdown with new fancy background (computer only)
+- Updated people section with new fancy animation (computer only)
+- Updated "eshaan_a.html" page with contributing graph, better bio, and more
+- Added workflows to generate the snake SVG
+- Added FA icons
+- Remove outdated files and media players
+- Remove old ReplIt badges
+- Update with the TXSE6 regional results
+- Add GitHub corners ( from [https://tholman.com/github-corners/](https://tholman.com/github-corners/) )
+- Grammar/wording changes on the sponsorships page
+- Add an MIT license (technically two, one is in .txt format, and the other doesn't have a TLD)
+- a **LOT** more stuff (I forgot to keep updating this in the almost **3 months** since the last release, so there were a lot of changes that are not written here)
 
 
 **v10** 
-- added a resources page with IC packets
-- found some pages without the new font from v7 and added the new font there
+- Added a resources page with IC packets
+- I found some pages without the new font from v7 and added the new font there
 - updated meta tags for [biography pages](https://daringdragons.eshaanahuja.repl.co/index.html#:~:text=solving%20and%20innovation.-,Our%20Team%20Members,-%2D%20you%20can%20read) and locked pages ( [Sets&Costumes page](https://daringdragons.eshaanahuja.repl.co/sets&costumes.html) and [Script Page](https://daringdragons.eshaanahuja.repl.co/script.html).)
-- added og (Open Graph Protocol) meta tags to HTML head sections
-- added Google Translate integration to more pages (the [biography pages](https://daringdragons.eshaanahuja.repl.co/index.html#:~:text=solving%20and%20innovation.-,Our%20Team%20Members,-%2D%20you%20can%20read) )
-- added a countdown to our next competiton on our main page (see [here](https://daringdragons.eshaanahuja.repl.co/#:~:text=Countdown%20to%20Our%20Next%20Competition!))
+- Added OG (Open Graph Protocol) meta tags to HTML head sections
+- Added Google Translate integration to more pages (the [biography pages](https://daringdragons.eshaanahuja.repl.co/index.html#:~:text=solving%20and%20innovation.-,Our%20Team%20Members,-%2D%20you%20can%20read) )
+- added a countdown to our next competition on our main page (see [here](https://daringdragons.eshaanahuja.repl.co/#:~:text=Countdown%20to%20Our%20Next%20Competition!))
 - added more credits to the [biography pages](https://daringdragons.eshaanahuja.repl.co/index.html#:~:text=solving%20and%20innovation.-,Our%20Team%20Members,-%2D%20you%20can%20read)
 - updated the resources page [here](https://daringdragons.eshaanahuja.repl.co/resources.html).
 
@@ -39,15 +54,15 @@ Thanks for reading and happy coding!
 **v9** 
 - added Google translate for international visitors
 - updated back-to-top buttons with new styling
-- updated the cookie popups styling
+- updated the cookie popup styling
 - added more meta tags to all of the pages (author, keywords, etc.)
 - improved the locked pages ( [Sets&Costumes page](https://daringdragons.eshaanahuja.repl.co/sets&costumes.html) and [Script Page](https://daringdragons.eshaanahuja.repl.co/script.html).)
 
 
 **v8**
-- Improve feedback form styles
+- Improve feedback form styles using FormFacade causing the addition of the reCAPTIA button to the page (I finally found out when this was added on March 27, 2024, ages after this was added after hous of searching for the reason of why it's here, because I didn't use it and I was the only person who has ever worked on this website.)
 - remove all iframes for faster speeds
-- lazy load videos of our past preformances
+- lazy load videos of our past performances
 - add "help, I forgot my password" screens to the ["Script progress"](https://daringdragons.eshaanahuja.repl.co/script.html) and ["Sets and costumes progress"](https://daringdragons.eshaanahuja.repl.co/sets&costumes.html) pages.
 
 
@@ -56,7 +71,7 @@ Thanks for reading and happy coding!
  
  
  **v6**
- - Improve sponsorships, sets&costumes and script pages
+ - Improve sponsorships, sets&costumes, and script pages
  - added semantic elements.
  
  
