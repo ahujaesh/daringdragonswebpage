@@ -22,6 +22,7 @@ Thanks for reading and happy coding!
 **v12** (Not final) (I'll keep up this time, unlike v11)
 - Update Mrs. RJ's bio with a meme
 - Add a spinner to Gokul's page
+- Create a new GitHub action to generate the line of code to add new things to the script page since I often use the same template. You can view it [here](https://github.com/ahujaesh/ahujaesh.github.io/blob/main/.github/workflows/createLine.yml).
  
 **v11** 
 - added a "Copy email to clipboard button" to the [contact us page](https://daringdragons.eshaanahuja.repl.co/contact.html).
