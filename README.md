@@ -23,6 +23,8 @@ Thanks for reading and happy coding!
 - Update Mrs. RJ's bio with a meme
 - Add a spinner to Gokul's page
 - Create a new GitHub action to generate the line of code to add new things to the script page since I often use the same template. You can view it [here](https://github.com/ahujaesh/ahujaesh.github.io/blob/main/.github/workflows/createLine.yml).
+- Convert both locked pages to .PHP to prevent anyone who is proficient in chrome developer console from digging through there and finding the locked info. (This took a while...)
+- Replace duplicate ```<html>``` tags with only one. (Explination: When I was optimising my SEO, I just copy-pasted my ```<head>``` tags from file to file, and the one I copied had an error - one ```<head>``` tag that was normal and one that had ```<html lang="en">``` on it.)
  
 **v11** 
 - added a "Copy email to clipboard button" to the [contact us page](https://daringdragons.eshaanahuja.repl.co/contact.html).
