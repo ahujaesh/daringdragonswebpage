@@ -23,9 +23,11 @@ Thanks for reading and happy coding!
 - Update Mrs. RJ's bio with a meme
 - Add a spinner to Gokul's page
 - Create a new GitHub action to generate the line of code to add new things to the script page since I often use the same template. You can view it [here](https://github.com/ahujaesh/ahujaesh.github.io/blob/main/.github/workflows/createLine.yml).
-- Convert both locked pages to .PHP to prevent anyone proficient in Chrome developer console from digging through and finding the locked info. (This took a while...)
+- **Convert both locked pages to .PHP** to prevent anyone proficient in Chrome developer console from digging through and finding the locked info. (This took a while...)
 - Replace duplicate ```<html>``` tags with only one. (Explanation: When I was optimizing my SEO, I just copy-pasted my ```<head>``` tags from file to file, and the one I copied had an error - one ```<head>``` tag that was normal and one that had ```<html lang="en">``` on it.)
 - Update the copyright dates on the bottom of the page from 2023 to 2024 (Four months into 2024...)
+- Update video view count (I forgot to check it so it went up over 600 views)
+- Add disclaimers to testing pages
  
 **v11** 
 - added a "Copy email to clipboard button" to the [contact us page](https://daringdragons.eshaanahuja.repl.co/contact.html).
