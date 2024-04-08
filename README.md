@@ -28,8 +28,13 @@ Thanks for reading and happy coding!
 - Update the copyright dates on the bottom of the page from 2023 to 2024 (Four months into 2024...)
 - Update video view count (I forgot to check it so it went up over 600 views)
 - Add disclaimers to testing pages
+- Update with 2024 - 2025 challenge previews
+- Fix spelling mistakes
+- Bold places in the awards section of the main page
+- Add special awards (I forgot to add them before)
+- Update indentation to make code cleaner
  
-**v11** 
+**v11** -  
 - added a "Copy email to clipboard button" to the [contact us page](https://daringdragons.eshaanahuja.repl.co/contact.html).
 - States changes
 - Updated countdown with new fancy background (computer only)
