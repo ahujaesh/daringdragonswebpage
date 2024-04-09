@@ -33,6 +33,7 @@ Thanks for reading and happy coding!
 - Bold places in the awards section of the main page
 - Add special awards (I forgot to add them before)
 - Update indentation to make code cleaner
+- Add a new banner that can be uncommented during testing/modifications of the site to tell the user that some features might be unavailable
  
 **v11** -  
 - added a "Copy email to clipboard button" to the [contact us page](https://ahujaesh.github.io/contact.html).
@@ -49,6 +50,9 @@ Thanks for reading and happy coding!
 - Grammar/wording changes on the sponsorships page
 - Add an MIT license (technically two, one is in .txt format, and the other doesn't have a TLD)
 - a **LOT** more stuff (I forgot to keep updating this in the almost **3 months** since the last release, so there were a lot of changes that are not written here)
+
+
+Note: Three months passed between v10 and v11
 
 
 **v10** 
@@ -72,9 +76,9 @@ Thanks for reading and happy coding!
 
 **v8**
 - Improve feedback form styles using FormFacade causing the addition of the reCAPTIA button to the page (I finally found out when this was added on March 27, 2024, ages after this was added after hous of searching for the reason of why it's here, because I didn't use it and I was the only person who has ever worked on this website.)
-- remove all iframes for faster speeds
-- lazy load videos of our past performances
-- add "help, I forgot my password" screens to the ["Script progress"](https://ahujaesh.github.io/script.html) and ["Sets and costumes progress"](https://ahujaesh.github.io/sets&costumes.html) pages.
+- Remove all ```<iframe>``` elements for faster loading speeds
+- Lazy load videos of our past performances
+- Add "Help, I forgot my password" screens to the ["Script progress"](https://ahujaesh.github.io/script.html) and ["Sets and costumes progress"](https://ahujaesh.github.io/sets&costumes.html) pages.
 
 
  **v7**
@@ -83,19 +87,19 @@ Thanks for reading and happy coding!
  
  **v6**
  - Improve sponsorships, sets&costumes, and script pages
- - added semantic elements.
+ - Added semantic elements.
  
  
 **v5** through **v1**
 - Add joke apis to Eshaan's biography page
-- add Star Wars apis to Eshaan's biography page
-- add alts to all links, add alts to all photos
-- formatting
-- add CSS animations
-- grammar
-- cookie policies
-- copyrights
-- and more that I don't remember, because I didn't have a changelog back then. If you want to know, you can go through the files above.
+- Add Star Wars apis to Eshaan's biography page
+- Add alts to all links, add alts to all photos
+- Formatting
+- Add CSS animations
+- Grammar
+- Cookie policies
+- Copyrights
+- And more that I don't remember, because I didn't have a changelog back then. If you want to know, you can go through the files above.
 
 
  **Note**: 
