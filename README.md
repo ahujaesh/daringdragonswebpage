@@ -34,8 +34,9 @@ Thanks for reading and happy coding!
 - Add special awards (I forgot to add them before)
 - Update indentation to make code cleaner
 - Add a new banner that can be uncommented during testing/modifications of the site to tell the user that some features might be unavailable
+- Add a magazine section to house the links to all the magazines that we were featured in (There are **so** many!)
  
-**v11** -  
+**v11**
 - added a "Copy email to clipboard button" to the [contact us page](https://ahujaesh.github.io/contact.html).
 - States changes
 - Updated countdown with new fancy background (computer only)
