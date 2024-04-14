@@ -35,6 +35,7 @@ Thanks for reading and happy coding!
 - Update indentation to make code cleaner
 - Add a new banner that can be uncommented during testing/modifications of the site to tell the user that some features might be unavailable
 - Add a magazine section to house the links to all the magazines that we were featured in (There are **so** many!)
+- Add new icons to [eshaan_a.html](https://ahujaesh.github.io/eshaan_a.html)
 - Add STATES VICTORY (1st place, High IC, Davinchi award)
 - Transfer countdown to be for Kansas City Gobal Finals 2024 not Texas State.
  
