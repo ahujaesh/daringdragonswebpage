@@ -20,6 +20,7 @@ Thanks for reading and happy coding!
 
 
 **v12** (Not final) (I'll keep up this time, unlike v11)
+- CONVERT ALL 22 IMAGES TO WEBP (I had been trying to do this since before v10!)
 - Update Mrs. RJ's bio with a meme
 - Add a spinner to Gokul's page
 - Create a new GitHub action to generate the line of code to add new things to the script page since I often use the same template. You can view it [here](https://github.com/ahujaesh/ahujaesh.github.io/blob/main/.github/workflows/createLine.yml).
@@ -37,7 +38,12 @@ Thanks for reading and happy coding!
 - Add a magazine section to house the links to all the magazines that we were featured in (There are **so** many!)
 - Add new icons to [eshaan_a.html](https://ahujaesh.github.io/eshaan_a.html)
 - Add STATES VICTORY (1st place, High IC, Davinchi award)
-- Transfer countdown to be for Kansas City Gobal Finals 2024 not Texas State.
+- Transfer countdown to be for Kansas City Gobal Finals 2024 not Texas State, because States has passed (We won).
+- Move JS function that was missed earlier when consolidating functions into one place at the bottom (I'm too lazy to configue a sepperate .JS file).
+- Update README.md
+- Fix broken License link (Forgot https:// so it didn't work)
+- Added missing spacing between elements
+- 
  
 **v11**
 - added a "Copy email to clipboard button" to the [contact us page](https://ahujaesh.github.io/contact.html).
