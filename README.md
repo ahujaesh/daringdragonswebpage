@@ -10,7 +10,23 @@ If you have a second, check out our [webpage](https://ahujaesh.github.io) by cli
 
 Thanks for reading and happy coding!
 
+**Understanding Repositories**:
 
+
+Our team has decided to split all of its data across **two** GitHub repositories. Below is a table that we have created to outline the differences.
+
+[https://github.com/ahujaesh/ahujaesh.github.io](https://github.com/ahujaesh/ahujaesh.github.io)| [https://github.com/ahujaesh/daringdragonswebpage](https://github.com/ahujaesh/daringdragonswebpage)  (This repository)
+---|---
+All the website files (Images, robot.txt, ect.) | Website backups (v11 - v1)
+All of the website's data | Website Changelog (What we changed in each version)
+Hosts the website through GitHub pages | X
+Follow for up to date website information | Follow for notifications on website releases
+
+**Why?**
+
+The reason why we have two repositories is because previously, we used a service called repl.it for hosting, and we only used GitHub for website backups. Eventually, repl.it ended its free hosting (Leading to the loss of all our GSC data), so we had to use GitHub pages (Which is objectively better). To use GitHub pages, we needed to have a repository called <username>.github.io or <orginisation>.github.io, so we had to create a new repository.
+
+---
 **Changelog:** 
 
 (Note - If you see a version's changelog but cannot see the folder with the code for it, it is currently being finalized and will be posted soon.)
