@@ -59,7 +59,7 @@ The reason why we have two repositories is because previously, we used a service
 - Update README.md
 - Fix broken License link (Forgot https:// so it didn't work)
 - Added missing spacing between elements
-- 
+- Update the description on the music page so it is more realistic and funny
  
 **v11**
 - added a "Copy email to clipboard button" to the [contact us page](https://ahujaesh.github.io/contact.html).
