@@ -35,7 +35,10 @@ The reason why we have two repositories is because previously, we used a service
 
 
 
-**v12** (Not final) (I'll keep up this time, unlike v11)
+**v13** (Not final)
+ - [Placeholder]
+
+**v12**
 - CONVERT ALL 22 IMAGES TO WEBP (I had been trying to do this since before v10!)
 - Update Mrs. RJ's bio with a meme
 - Add a spinner to Gokul's page
