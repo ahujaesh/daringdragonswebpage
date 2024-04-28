@@ -60,9 +60,20 @@ The reason why we have two repositories is because previously, we used a service
 - Fix broken License link (Forgot https:// so it didn't work)
 - Added missing spacing between elements
 - Update the description on the music page so it is more realistic and funny
- 
+- Update Schema description
+- Update sitemaps: The url hadn't been changed
+- Made link text more descriptive
+- Close errors
+- Shorten CSS
+- Add README.md badges
+- Clean up code
+- Update Github Corner
+- Change password hint
+- Add the table at the top of this file to both README.md files
+- Fix broken link
+   
 **v11**
-- added a "Copy email to clipboard button" to the [contact us page](https://ahujaesh.github.io/contact.html).
+- Added a "Copy email to clipboard button" to the [contact us page](https://ahujaesh.github.io/contact.html).
 - States changes
 - Updated countdown with new fancy background (computer only)
 - Updated people section with new fancy animation (computer only)
