@@ -36,7 +36,8 @@ The reason why we have two repositories is because previously, we used a service
 
 
 **v13** (Not final)
- - [Placeholder]
+ - Update version in README.md's table
+ - Add ```lang="en"``` tag to sponsorships.html
 
 **v12**
 - CONVERT ALL 22 IMAGES TO WEBP (I had been trying to do this since before v10!)
