@@ -39,6 +39,11 @@ The reason why we have two repositories is because previously, we used a service
  - Update version in README.md's table
  - Add ```lang="en"``` tag to sponsorships.html
  - Add a CUSTOM 404 error page, so that whenever someone finds a broken link, they will email us. View it [here](https://github.com/ahujaesh/ahujaesh.github.io/blob/main/404.html)
+ - Add new links to the sitemap.
+ - Update incorrect tag endings.
+ - Fix README.md rendering error. (Used <> and the file thought it was HTML, so I had to switch to parenthisis)
+ - Convert missed .PNG image to .WEBP
+ - Minor bug fixes.
 
 **v12**
 - CONVERT ALL 22 IMAGES TO WEBP (I had been trying to do this since before v10!)
