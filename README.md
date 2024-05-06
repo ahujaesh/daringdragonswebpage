@@ -44,6 +44,7 @@ The reason why we have two repositories is because previously, we used a service
  - Fix README.md rendering error. (Used <> and the file thought it was HTML, so I had to switch to parenthisis)
  - Convert missed .PNG image to .WEBP
  - Minor bug fixes.
+ - Add GitHub files (SECURITY.md, CONTRIBUTING.md, feature_request.md, and DEPENDABOT.yml)
 
 **v12**
 - CONVERT ALL 22 IMAGES TO WEBP (I had been trying to do this since before v10!)
