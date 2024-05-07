@@ -45,6 +45,8 @@ The reason why we have two repositories is because previously, we used a service
  - Convert missed .PNG image to .WEBP
  - Minor bug fixes.
  - Add GitHub files (SECURITY.md, CONTRIBUTING.md, feature_request.md, and DEPENDABOT.yml)
+ - Fix CSS URL error (Tried to accsess a WEBP image that I didn't convert)
+ - Update Dependencies
 
 **v12**
 - CONVERT ALL 22 IMAGES TO WEBP (I had been trying to do this since before v10!)
